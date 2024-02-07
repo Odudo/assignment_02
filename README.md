@@ -1,3 +1,6 @@
-# ABOUT
+Group members
+JOSEPH KURWA RAYMOND  27918/T.2021
+BOAZ DONALD MBILINYI  27733/T.2021
+GRACE GEORGE SETUMBI  27747/T.2021
+ALLY HAMADI RAMADHANI 27721/T.2021
 
-This folder contains notebook files for various Simple Linear Regression and Multiple Linear Regression Tutorials and Exercises
